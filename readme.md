@@ -1,1 +1,1 @@
-This fairly simple dungeon escape game was written in pure C++ as a project in my university studies. The goal is to find  away to open the cell door , defeat the guard, and escape before you run out of time.
+This fairly simple dungeon escape game was written in pure C++ as a project in my university studies. The goal is to find  a way to open the cell door , defeat the guard, and escape before you run out of time.
